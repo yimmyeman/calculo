@@ -1,21 +1,16 @@
 ---
 title: "Ejercicios resueltos de derivación. 1a parte."
 author: "Juan Gabriel Gomila, Arnau Mir y Llorenç Valverde"
-date: ""
+date: ''
 output:
   beamer_presentation:
-#    colortheme: rose
     incremental: yes
     theme: Warsaw
     toc: no
-
-header-includes: \usepackage{amsmath,color,array,booktabs,algorithm2e}
-                 \newcommand\blue[1]{\textcolor{blue}{#1}}
-                 \newcommand\red[1]{\textcolor{red}{#1}}
-                 
-
-                 
-              
+  ioslides_presentation:
+    incremental: yes
+header-includes: \usepackage{amsmath,color,array,booktabs,algorithm2e} \newcommand\blue[1]{\textcolor{blue}{#1}}
+  \newcommand\red[1]{\textcolor{red}{#1}}
 ---
 
 
